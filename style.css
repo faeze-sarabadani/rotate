@@ -1,0 +1,370 @@
+*{ 
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box; 
+     
+} 
+.parent{ 
+display: flex; 
+flex-wrap: wrap; 
+justify-content: space-evenly; 
+ 
+ 
+} 
+.container{ 
+display: flex; 
+justify-content: center; 
+background-color: white; 
+width: 200px; 
+height: 200px; 
+margin: 2rem; 
+box-shadow: 10px 5px 5px #dbdada; 
+flex-wrap: wrap; 
+margin: 20px; 
+ 
+} 
+ 
+.box1{ 
+width: 100px; 
+height: 100px; 
+background-color: rgb(132, 129, 134); 
+display: flex; 
+align-self: center; 
+margin: 1.5rem; 
+ 
+} 
+.box2a{ 
+    width: 100px; 
+    height: 100px; 
+    background-color: rgb(158, 47, 231); 
+    display: flex; 
+    align-self: center; 
+    transition-duration: 1s; 
+} 
+ 
+.box2b{ 
+    width: 100px; 
+    height: 100px; 
+    background-color: rgb(158, 47, 231); 
+    display: flex; 
+    align-self: center; 
+    transition-duration: 1s; 
+} 
+.box2c{ 
+    width: 100px; 
+    height: 100px; 
+    background-color: rgb(158, 47, 231); 
+    display: flex; 
+    align-self: center; 
+    transition-duration: 1s; 
+} 
+ 
+.box2d{ 
+    width: 100px; 
+    height: 100px; 
+    background-color: rgb(158, 47, 231); 
+    display: flex; 
+    align-self: center; 
+    transition-duration: 1s; 
+} 
+ 
+.box2e{ 
+    width: 100px; 
+    height: 100px; 
+    background-color: rgb(158, 47, 231); 
+    display: flex; 
+    align-self: center; 
+    transition-duration: 1s; 
+}
+.box2f{ 
+    width: 100px; 
+    height: 100px; 
+    background-color: rgb(158, 47, 231); 
+    display: flex; 
+    align-self: center; 
+    transition-duration: 1s; 
+} 
+ 
+ 
+.box2g{ 
+    width: 100px; 
+    height: 100px; 
+    background-color: rgb(158, 47, 231); 
+    display: flex; 
+    align-self: center; 
+    transition-duration: 1s; 
+} 
+ 
+.box2h{ 
+    width: 100px; 
+    height: 100px; 
+    background-color: rgb(158, 47, 231); 
+    display: flex; 
+    align-self: center; 
+    transition-duration: 1s; 
+} 
+ 
+.box2i{ 
+    width: 100px; 
+    height: 100px; 
+    background-color: rgb(158, 47, 231); 
+    display: flex; 
+    align-self: center; 
+    transition-duration: 1s; 
+} 
+.box2j{ 
+    width: 100px; 
+    height: 100px; 
+    background-color: rgb(158, 47, 231); 
+    display: flex; 
+    align-self: center; 
+    transition-duration: 1s; 
+} 
+.box2k{ 
+    width: 100px; 
+    height: 100px; 
+    background-color: rgb(158, 47, 231); 
+    display: flex; 
+    align-self: center; 
+    transition-duration: 1s; 
+} 
+.box2l{ 
+    width: 100px; 
+    height: 100px; 
+    background-color: rgb(158, 47, 231); 
+    display: flex; 
+    align-self: center; 
+    transition-duration: 1s; 
+} 
+.box2m{ 
+    width: 100px; 
+    height: 100px; 
+    background-color: rgb(158, 47, 231); 
+    display: flex; 
+    align-self: center; 
+    transition-duration: 1s; 
+} 
+.box2n{ 
+    width: 100px; 
+    height: 100px; 
+    background-color: rgb(158, 47, 231); 
+    display: flex; 
+    align-self: center; 
+    transition-duration: 1s; 
+} 
+.box2o{ 
+    width: 100px; 
+    height: 100px; 
+    background-color: rgb(158, 47, 231); 
+    display: flex; 
+    align-self: center; 
+    transition-duration: 1s; 
+} 
+.box2p{ 
+    width: 100px; 
+    height: 100px; 
+    background-color: rgb(158, 47, 231); 
+    display: flex; 
+    align-self: center; 
+    transition-duration: 1s; 
+} 
+.box2q{ 
+    width: 100px; 
+    height: 100px; 
+    background-color: rgb(158, 47, 231); 
+    display: flex; 
+    align-self: center; 
+    transition-duration: 1s; 
+} 
+.box2r{ 
+    width: 100px; 
+    height: 100px; 
+    background-color: rgb(158, 47, 231); 
+    display: flex; 
+    align-self: center; 
+    transition-duration: 1s; 
+} 
+.box2s{ 
+    width: 100px; 
+    height: 100px; 
+    background-color: rgb(158, 47, 231); 
+    display: flex; 
+    align-self: center; 
+    transition-duration: 1s; 
+} 
+.box2t{ 
+    width: 100px; 
+    height: 100px; 
+    background-color: rgb(158, 47, 231); 
+    display: flex; 
+    align-self: center; 
+    transition-duration: 1s; 
+} 
+.box2u{ 
+    width: 100px; 
+    height: 100px; 
+    background-color: rgb(158, 47, 231); 
+    display: flex; 
+    align-self: center; 
+    transition-duration: 1s; 
+} 
+.box2v{ 
+    width: 100px; 
+    height: 100px; 
+    background-color: rgb(158, 47, 231); 
+    display: flex; 
+    align-self: center; 
+    transition-duration: 1s; 
+} 
+.box2w{ 
+    width: 100px; 
+    height: 100px; 
+    background-color: rgb(158, 47, 231); 
+    display: flex; 
+    align-self: center; 
+    transition-duration: 1s; 
+} 
+.box2x{ 
+    width: 100px; 
+    height: 100px; 
+    background-color: rgb(158, 47, 231); 
+    display: flex; 
+    align-self: center; 
+    transition-duration: 1s; 
+}
+.box2y{ 
+    width: 100px; 
+    height: 100px; 
+    background-color: rgb(158, 47, 231); 
+    display: flex; 
+    align-self: center; 
+    transition-duration: 1s; 
+} 
+.box2z{ 
+    width: 100px; 
+    height: 100px; 
+    background-color: rgb(158, 47, 231); 
+    display: flex; 
+    align-self: center; 
+    transition-duration: 1s; 
+} 
+.span1{display: flex; 
+    flex-wrap: wrap; 
+    justify-content: center; 
+     
+} 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+.box2a:hover{ 
+    transform-origin: center; 
+    transform: rotate(45deg);  
+ 
+} 
+ 
+.box2b:hover{ 
+    
+    transform: rotateX(45deg); 
+    background-color: rgb(158, 47, 231) ; 
+} 
+ 
+.box2c:hover{ 
+    transform: rotateY(45deg); 
+  
+} 
+ 
+.box2d:hover{  transform: scale(1.5); 
+ 
+  
+} 
+.box2e:hover{  transform: scalex(2); 
+ 
+  
+} 
+.box2f:hover{ 
+    transform: scaley(1.8); 
+ 
+} 
+.box2g:hover{ 
+    transform: skew(45deg); 
+  
+}
+.box2h:hover{ 
+    transform: skewy(45deg); 
+ 
+} 
+.box2i:hover{ 
+    transform: translate(35px, 15px); 
+} 
+.box2j:hover{ 
+    transform: translatex(50px); 
+} 
+.box2k:hover{ 
+    transform: translatey(40px); 
+} 
+ 
+.box2l:hover{ 
+    transform: skewy(45deg)scale(1.3) translatey(-3rem) ; 
+    transform-origin: left;  
+ 
+} 
+.box2m:hover{ 
+  transform: perspective(120px) rotateX(50deg); 
+} 
+.box2n:hover{ 
+    transform: perspective(120px) rotatey(50deg); 
+  } 
+ 
+.box2o:hover{ 
+  transform-origin: top right; 
+    transform: rotate(45deg)} 
+.box2p:hover{ 
+  transform-origin: bottom left; 
+    transform: rotate(45deg) 
+  } 
+ 
+.box2q:hover{ 
+    transform:   perspective(500px) rotateX(50deg) ; 
+    transform-origin: bottom ; 
+} 
+.box2r:hover{ 
+    transform:   perspective(300px) rotateX(50deg) ; 
+    transform-origin: top ; 
+} 
+.box2s:hover{ 
+    transform:   perspective(600px) rotatey(40deg) ; 
+    transform-origin: left ; 
+} 
+.box2t:hover{ 
+    transform:   perspective(300px) rotatey(55deg) ; 
+    transform-origin: right ; 
+} 
+.box2u:hover{ 
+    transform:   scale(1.5) ; 
+    transform-origin: top right ; 
+} 
+.box2v:hover{ 
+    transform:   scale(1.5) ; 
+    transform-origin: bottom left ; 
+} 
+.box2w:hover{ 
+    transform:   scalex(2) ; 
+    transform-origin: right ; 
+} 
+.box2x:hover{ 
+    transform:   scalex(2) ; 
+    transform-origin: left ; 
+} 
+.box2y:hover{ 
+    transform:   scaley(2) ; 
+    transform-origin: top ; 
+} 
+.box2z:hover{ 
+    transform:   scaley(2) ; 
+    transform-origin: bottom ; 
+}
